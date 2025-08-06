@@ -518,7 +518,7 @@ textarea.form-control {
       transition: .3s all ease;
       background: #fff; }
       .owl-carousel.home-slider .owl-dots .owl-dot.active {
-        border: 2px solid white;
+        border: 2px solid #ffba5a;
         background: none; }
 
 .owl-carousel.major-caousel .owl-stage-outer {
